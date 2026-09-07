@@ -4,7 +4,7 @@
     <title>Library Management System</title>
 </head>
 <body>
-    <h1>Welcome to the Library Management System</h1>
+    <h1>Welcome to Main Page</h1>
     <h2>bug fix applied</h2>
     <p>This is a simple web application built using JSP and Maven.</p>
 
